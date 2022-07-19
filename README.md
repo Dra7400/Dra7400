@@ -25,11 +25,11 @@
 
 					
 <ul class="icons">
-	<li><a href="https://twitter.com/dra7400" title="fa-twitter"><src="images/twitter.svg"> Twitter</a></li>
-	<li><a href="https://www.instagram.com/thcthehiddenchamber/" title="fa-instagram"><src="images/instagram.svg"> Instagram</a></li>
-	<li><a href="https://www.linkedin.com/in/david-adams-8b22529/" title="fa-linkedin"><src="images/linkedin.svg"> LinkedIn</a></li>
-	<li><a href="https://github.com/Dra7400" title="fa-github"><src="images/github.svg"> Github</a></li>
-	<li><a href="https://dra7400.github.io/cv/contact-me.html" titlw="contact"><src="images/envelope.svg"> Contact Me</a></li>
+	<li><a href="https://twitter.com/dra7400" title="fa-twitter"><src="images/Twitter_white.svg"> Twitter</a></li>
+	<li><a href="https://www.instagram.com/thcthehiddenchamber/" title="fa-instagram"><src="images/Instagram_white.svg"> Instagram</a></li>
+	<li><a href="https://www.linkedin.com/in/david-adams-8b22529/" title="fa-linkedin"><src="images/LinkedIN_white.svg"> LinkedIn</a></li>
+	<li><a href="https://github.com/Dra7400" title="fa-github"><src="images/Github_white.svg"> Github</a></li>
+	<li><a href="https://dra7400.github.io/cv/contact-me.html" titlw="contact"><src="images/Mail_ru_white.svg"> Contact Me</a></li>
 </ul>
 					
 
