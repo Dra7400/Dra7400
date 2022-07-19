@@ -23,6 +23,16 @@
 
 - 📫 How to reach me ...
 
+					
+<ul class="icons">
+	<li><a href="https://twitter.com/dra7400" title="fa-twitter"><src="images/twitter.svg"> Twitter</a></li>
+	<li><a href="https://www.instagram.com/thcthehiddenchamber/" title="fa-instagram"><src="images/instagram.svg"> Instagram</a></li>
+	<li><a href="https://www.linkedin.com/in/david-adams-8b22529/" title="fa-linkedin"><src="images/linkedin.svg"> LinkedIn</a></li>
+	<li><a href="https://github.com/Dra7400" title="fa-github"><src="images/github.svg"> Github</a></li>
+	<li><a href="https://dra7400.github.io/cv/contact-me.html" titlw="contact"><src="images/envelope.svg"> Contact Me</a></li>
+</ul>
+					
+
 <!---
 Dra7400/Dra7400 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
