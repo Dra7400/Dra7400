@@ -4,14 +4,14 @@
       <td>
         <h1>David R. Adams FSA Scot</h1>
         <p>
-          <em>Master Jeweler/Engraver at
+          <em>- Master Jeweler/Engraver at
             <strong>
               <a href="https://www.hiddenchamber.net/">The Hidden Chamber</a>
             </strong>
           </em>
         </p>
-        <p>Full Stack Programmer</p>
-        <p>Fellow with The Society of Antiquaries of Scotland</p>
+        <p>- Full Stack Programmer</p>
+        <p>- Fellow with The Society of Antiquaries of Scotland</p>
       </td>
     </tr>
   </table>
