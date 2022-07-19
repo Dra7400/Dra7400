@@ -19,7 +19,7 @@
 
 - 👀 I’m an experienced I.T. Professional with almost 30 years of experience in a broad array of technologies and have a passion for learning.
 
-- 🌱 I’m currently continuing my quest for knowledge. I am currently focused on Python, Javascript, HTML, CSS, Silversmithing and Antique Jewelry Repair and Restoration using historically accurate tools and methods, Hand-Engraving with 135 year old gravers, and Horology. 
+- 🌱 I’m currently continuing my quest for knowledge. Currently, I'm focused on Python, Javascript, HTML, CSS, Silversmithing and Antique Jewelry Repair and Restoration using historically accurate tools and methods, Hand-Engraving with 135 year old gravers, and Horology. 
 
 - 📫 How to reach me ... <code><a href="https://twitter.com/dra7400" title="Twitter"><img width="22" src="images/Twitter_white.svg"> Twitter</a></code>
 	<code><a href="https://www.instagram.com/thcthehiddenchamber/" title="Instagram"><img width="22" src="images/Instagram_white.svg"> Instagram</a></code>
