@@ -2,7 +2,7 @@
   <table cellspacing="20">
     <tr>
       <td>
-        <img src="/Users/dra7400/Documents/WebDev/HTML Personal Site/images/Dave-modified.png" alt="image of david adams" height="200" width="200" />
+        <img src="https://user-images.githubusercontent.com/88469667/179660975-fcbc794d-2e1c-453b-906e-7ed05b8d6359.png" alt="image of david adams" height="200" width="200" />
       </td>
       <td>
         <h1>David R. Adams FSA Scot</h1>
