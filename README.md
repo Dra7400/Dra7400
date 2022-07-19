@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&width=800&lines=Hello+World!+My+name+is+David+Adams+++;I+enjoy+learning+new+things)](https://git.io/typing-svg)
-        <img src="https://user-images.githubusercontent.com/88469667/179660975-fcbc794d-2e1c-453b-906e-7ed05b8d6359.png" alt="image of david adams" height="200" width="200" />
+        <i/>
       </td>
       <td>
         <h1>David R. Adams FSA Scot</h1>
